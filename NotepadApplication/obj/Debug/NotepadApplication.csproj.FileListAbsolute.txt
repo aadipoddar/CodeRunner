@@ -1,0 +1,14 @@
+D:\NotepadApplication\NotepadApplication\bin\Debug\NotepadApplication.exe.config
+D:\NotepadApplication\NotepadApplication\bin\Debug\NotepadApplication.exe
+D:\NotepadApplication\NotepadApplication\bin\Debug\NotepadApplication.pdb
+D:\NotepadApplication\NotepadApplication\obj\Debug\NotepadApplication.csproj.AssemblyReference.cache
+D:\NotepadApplication\NotepadApplication\obj\Debug\NotepadApplication.Notepad.resources
+D:\NotepadApplication\NotepadApplication\obj\Debug\NotepadApplication.Properties.Resources.resources
+D:\NotepadApplication\NotepadApplication\obj\Debug\NotepadApplication.csproj.GenerateResource.cache
+D:\NotepadApplication\NotepadApplication\obj\Debug\NotepadApplication.csproj.CoreCompileInputs.cache
+D:\NotepadApplication\NotepadApplication\obj\Debug\NotepadApplication.exe
+D:\NotepadApplication\NotepadApplication\obj\Debug\NotepadApplication.pdb
+D:\NotepadApplication\NotepadApplication\bin\Debug\FastColoredTextBox.dll
+D:\NotepadApplication\NotepadApplication\bin\Debug\FastColoredTextBox.xml
+D:\NotepadApplication\NotepadApplication\obj\Debug\NotepadApplication.csproj.CopyComplete
+D:\NotepadApplication\NotepadApplication\obj\Debug\NotepadApplication.HTMLPreview.resources
